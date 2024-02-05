@@ -5,3 +5,4 @@ Author: Gilbert Collado
 Description: This is my reading notes for lab01
 
 ### Heading 3
+Smaller size

@@ -21,4 +21,6 @@ How were investigators able to trace the chips back to the source?
 ## Things I want to know more about?
 
 The tools that will help me prevent and fight scenarios like these.
+
+SOURCES:
 1 (https://web.archive.org/web/20190330085155/https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies)

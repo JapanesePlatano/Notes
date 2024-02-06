@@ -1,4 +1,4 @@
-#Readings: Installing Ubuntu Linux
+# Readings: Installing Ubuntu Linux
 •	What is Ubuntu?
 
 Ubuntu is a popular open-source Linux distribution that is based on Debian. It is known for its user-friendly interface and widespread community support. Ubuntu is designed to be easy to use and includes a variety of pre-installed software for common tasks. It's widely used for both desktop and server environments.

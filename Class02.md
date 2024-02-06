@@ -10,7 +10,7 @@
 
 •	The optimal number of CPU cores varies; for general use, a quad-core processor is usually sufficient, while content creators might prefer six or eight cores.
 
-3.	What details are you looking for when finding a motherboard which fits your processor?
+2.	What details are you looking for when finding a motherboard which fits your processor?
    
 •	Ensure compatibility with the CPU socket.
 
@@ -22,7 +22,7 @@
 
 •	Choose a form factor (ATX, microATX, mini-ITX) based on your case size and available space.
 
-5.	What are the tradeoffs you’d evaluate while selecting a storage device?
+3.	What are the tradeoffs you’d evaluate while selecting a storage device?
    
 •	HDD vs. SSD: HDDs provide more storage at a lower cost per GB but are slower. SSDs are faster, more durable, and energy-efficient but are generally more expensive.
 
@@ -30,7 +30,7 @@
 
 •	Capacity vs. Speed: Higher-capacity drives are cost-effective for storage, but speed may be sacrificed. Smaller-capacity SSDs might be faster but at a higher cost per GB.
 
-7.	Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
+4.	Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
    
 •	Processor (CPU): Think of it as the brain, responsible for all calculations and tasks.
 

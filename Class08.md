@@ -1,6 +1,5 @@
 # Readings: Virtualization of Windows OS
 
-
 1.	What is an ISO File?
 
 An ISO file is a single file containing the entire content of a CD, DVD, or other optical disc, including the file structure and data. It's commonly used for distributing software or operating systems.

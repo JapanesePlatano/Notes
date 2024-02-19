@@ -33,4 +33,4 @@ If System Restore doesn't solve the problem:
 
 ## Things I want to know more about
 
-How to to setup and perform ssytem restore in ubuntu and MacOs
+How to setup and perform sytem restore in ubuntu and MacOs

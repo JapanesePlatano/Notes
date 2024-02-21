@@ -21,5 +21,5 @@ She is a Nuclear Engineer and now works for the team that designs the training f
 
 •	and how you can help them.
 
-My goal after graduating from Codefellows is to land a job at Code 109 in the Shipyard. This is the equivalent of an IT department for the DOD. In there my starting position is would be as a help desk technician.
+My goal after graduating from Codefellows is to land a job at Code 109 in the Shipyard. This is the equivalent of an IT department for the DOD. In there, my starting position is would be as a help desk technician.
 

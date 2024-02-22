@@ -10,7 +10,7 @@ If a solution has been found, go ahead and make the changes, verify it works and
 
 What are the benefits of documenting the entire troubleshooting process in a knowledge base?
 
-Future reference, If the same issue happens again, you can go back to your notes, fix the issue again or if the issue is not fixed, revise them and come up with new solutions to fix the issue
+Future reference, If the same issue happens again, you can go back to your notes, fix the issue again or if the issue is not fixed, revise them and come up with new solutions to fix the issue.
 
 Think about a technological device particularly popular in your culture or community. Imagine a scenario where issues arise: how would you apply CompTIA A+ troubleshooting methodology to help, while considering the end-user’s cultural background?
 

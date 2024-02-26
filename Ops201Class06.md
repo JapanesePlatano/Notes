@@ -1,4 +1,5 @@
 # Windows Defender Security Center
+
 1.	What are the five main sections included in the Windows Defender Security Center, and what functionalities do they offer?
 
 •	Virus & Threat Protection

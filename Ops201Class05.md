@@ -18,3 +18,4 @@ command line tool would help address the situation.
 For today’s lab we were required to allocate a new disk for a customer that was already empty but let’s say that that was not the case and what the customer wanted was for that disk to be formatted completely. Without utilizing the GUI, we can go to the command prompt and utilize the command format to erase everything in that disk and set it up with the default options for a disk.
 
 ## Things I want to know more about
+N/A

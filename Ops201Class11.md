@@ -1,4 +1,4 @@
-Data Restoration, Startup Repair, and Secure Disposal
+# Data Restoration, Startup Repair, and Secure Disposal
 
 1.	What are some common indicators that an SSD may be failing?
 

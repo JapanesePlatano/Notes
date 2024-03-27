@@ -44,4 +44,5 @@ N/A
 ### Sources
 
 https://medium.com/@ethicalentrepreneur/cidr-block-notation-explained-in-2-minutes-1010ec0dbc15
+
 https://www.comptia.org/blog/security-awareness-training-network-segmentation

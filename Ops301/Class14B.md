@@ -23,3 +23,13 @@ Diverse companies outperform because:
 Give an example of how a diverse company can serve a diverse user base or vice versa.
 
 A diverse company might develop inclusive products like a language translation tool, benefiting a diverse user base including immigrants and international businesses. Conversely, a diverse user base can drive companies to diversify products, like a multinational food company incorporating various cuisines to appeal to culturally diverse consumers.
+
+## Things I want to know more about
+
+N/A
+
+### Sources
+
+https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding
+
+https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/

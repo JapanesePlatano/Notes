@@ -7,6 +7,7 @@
 •	Easy-to-deploy configurations for improved operational efficiency and sustainability.
 
 2.	What are the seven core categories of CIS Benchmarks?
+
 •	Operating Systems
 •	Middleware
 •	Software

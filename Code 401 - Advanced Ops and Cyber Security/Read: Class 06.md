@@ -6,7 +6,7 @@ For confidentiality, I would use strong encryption methods for data both at rest
 
 Explain how hashing verifies data integrity using non-technical terms.
 
-Imagine you have a special blender that makes a unique smoothie based on the exact ingredients and amounts you put in. If you change even a small part of the recipe, swap an apple for an orange, the resulting smoothie changes. Hashing is like using this blender on digital data. When data is "blended" through a hashing process, it produces a unique digital "smoothie" or hash value. If the data changes slightly, the new hash will be vastly different, just like the smoothie. This makes it easy to check if data has been altered, just by comparing the "flavor" of the hash values.
+Using a blender that makes a unique smoothie based on the exact ingredients and amounts you put in. If you change even a small part of the recipe, swap an apple for an orange, the resulting smoothie changes. Hashing is like using this blender on digital data. When data is "blended" through a hashing process, it produces a unique digital "smoothie" or hash value. If the data changes slightly, the new hash will be vastly different, just like the smoothie. This makes it easy to check if data has been altered, just by comparing the "flavor" of the hash values.
 
 How is hashing and encryption different?
 

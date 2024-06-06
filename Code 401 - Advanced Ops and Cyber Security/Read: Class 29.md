@@ -7,8 +7,11 @@ Threat modeling is like making your home safe. You think about what bad things m
 What are the four questions that can help us organize threat modeling?
 
 What are we building?
+
 What can go wrong?
+
 What are we going to do about it?
+
 Did we do a good job?
 
 You are the project lead for a new application. How would you explain the benefits of Threat Modeling to the rest of the team?

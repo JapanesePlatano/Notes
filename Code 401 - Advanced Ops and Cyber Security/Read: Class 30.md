@@ -17,3 +17,7 @@ Modules Rules: Utilize external modules to incorporate complex logic and additio
 How are YARA rules similar to how Anti-Virus programs detect malicious software?
 
 YARA rules and anti-virus programs both detect malicious software by searching for specific patterns or signatures within files. YARA rules allow for flexible and customizable pattern matching, similar to how anti-virus programs use predefined signatures to identify threats. Both methods recognize and classify malware based on characteristic code fragments and behaviors.
+
+## Things I want to know more about
+
+N/A

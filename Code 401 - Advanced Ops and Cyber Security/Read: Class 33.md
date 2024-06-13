@@ -13,3 +13,7 @@ The primary objective of Threat Hunting is to identify and mitigate threats with
 Your organization has a fully functioning SOC but not active Threat Hunting. How would you advocate for your security organization to start Threat Hunting activities?
 
 I would  emphasize that Threat Hunting complements SOC activities by  identifying threats that traditional monitoring may miss, thus making security better and reducing potential damage from undetected threats.
+
+## Things I want to know more about
+
+N/A

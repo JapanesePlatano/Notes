@@ -1,6 +1,6 @@
 # Cyber-security of self driving cars
 
-This Articls  highlights concerns such as the potential for cybercriminals to hijack these vehicles, the vulnerability of cars connected to the internet, and the complexities of ensuring software security in such advanced systems. Ethically, it raises issues about public safety and the responsibility of manufacturers to develop secure technologies, as well as the role of government regulation.
+This Article  highlights concerns such as the potential for cybercriminals to hijack these vehicles, the vulnerability of cars connected to the internet, and the complexities of ensuring software security in such advanced systems. Ethically, it raises issues about public safety and the responsibility of manufacturers to develop secure technologies, as well as the role of government regulation.
 
 # Google and AI
 
